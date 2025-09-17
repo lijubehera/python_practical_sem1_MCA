@@ -1,3 +1,5 @@
+# lec 1 and 2 merged
+
 # # check if a number is even or odd
 # num = int(input("ENTER A NUMBER : "))
 # if num % 2 == 0:
